@@ -1,9 +1,8 @@
-We will study implementations, specifications, and applications of 4 classes of distributed algorithms and frameworks:
+Study implementations, specifications, and applications of 4 classes of distributed algorithms and frameworks:
 (1) Distributed consensus,
 (2) Distributed storage,
 (3) Security protocols, and
 (4) Distributed programming support.
-The result of this study is the starting part of the course projects. So for each class, select the problems/solutions/implementations closest to what you want to work on.
 
 For each of the 4 classes, you are asked to find 3 best implementations or specifications and 1 best use/application that you can find---specifically,
 
@@ -14,17 +13,13 @@ For example, you may say that you googled "Paxos implementation" and found 8 imp
 2. For each of the 3 best implementations or specifications that you selected, collect values for all items listed in the form below and enter them into the form:
 https://docs.google.com/forms/d/e/1FAIpQLSfcjsp94Hpnf7leXOQAcyN1haRIrSjERVBahbi6-1ZMPg7grg/viewform
 
-You want to keep a copy yourself too.
-
 3. For the use/application that you find, (1) collect values for all items listed in the form above, or indicate that they are the same as one of 3 implementations or specifications you selected, and (2) describe how the application uses the particular algorithm implementation or specification.
-
 
 Note: 
 
 For each implementation, specification, or application you find, give its source; use the Wikipedia format for citing source:
 https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
 Remember to include at least author, title, source, and date.
-
 
 Extra credits:
 
